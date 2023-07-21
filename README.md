@@ -1,2 +1,2 @@
-# pythonp
+# Python
 Starbucks Data Analysis
